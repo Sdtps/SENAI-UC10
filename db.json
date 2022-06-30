@@ -2,39 +2,39 @@
   "noticias": [
     {
       "id": 1,
-      "image": "",
-      "titulo": "Teste",
-      "descricao": "Teste o json"
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     },
     {
-      "image": "",
-      "titulo": "TESTANDOMEUPRIMEIROPUT",
-      "descricao": "Testando",
-      "id": 2
+      "id": 2,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     },
     {
       "id": 4,
-      "image": "",
-      "titulo": "Teste",
-      "descricao": "Teste o json"
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     },
     {
       "id": 5,
-      "image": "",
-      "titulo": "Teste",
-      "descricao": "Teste o json"
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     },
     {
       "id": 6,
-      "image": "",
-      "titulo": "Teste",
-      "descricao": "Teste o json"
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     },
     {
-      "image": "",
-      "titulo": "TESTANDOMEUPRIMEITOPOST",
-      "descricao": "Testando",
-      "id": 7
+      "id": 7,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
     }
   ]
 }
