@@ -1,4 +1,18 @@
 {
+  "user": [
+    {
+      "email": "david@gmail.com",
+      "password": "SenhaSuperForte",
+      "nome": "David",
+      "id": 1
+    },
+    {
+      "email": "camaradagit@gmail.com",
+      "password": "SenhaSuperForte123",
+      "nome": "Camarada",
+      "id": 2
+    }
+  ],
   "noticias": [
     {
       "id": 1,

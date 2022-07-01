@@ -24,10 +24,5 @@ export class HomeComponent implements OnInit {
       console.log(this.listaNoticias);
     } )
   }
-  userModel = new User("", "") 
-
-  onSubmit(){
-    console.log(this.userModel)
-  }
 
 }
